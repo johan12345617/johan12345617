@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @johan12345617
-- 👀 I’m interested in backend techonologies
+- 👋 Hi, Johan blas
+- 👀 I’m interested in backend technologies
 - 🌱 I’m currently learning phyton o.O
 - 💞️ I’m looking to collaborate on anything that challenges me e.e
 - 📫 How to reach me : dm me
